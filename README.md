@@ -1,6 +1,4 @@
 ### 👋 Hi, I'm Do Yeon. 
-header
-
 
 🎓 Undergraduate student
 
