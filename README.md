@@ -1,4 +1,4 @@
-### Hi, I'm Do Yeon. 
+### 👋 Hi, I'm Do Yeon. 
 
 🎓 Undergraduate student
 
