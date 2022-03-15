@@ -2,8 +2,9 @@
 
 🎓 Undergraduate student
 
-💡 Interested in AI, Deep Learning, Computer Vision
+👀 Interested in AI, Deep Learning, Computer Vision
 
 
-
+👀
+💡
 
