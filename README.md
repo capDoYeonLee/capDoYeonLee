@@ -4,5 +4,5 @@
 
 👀 Interested in AI, Deep Learning, Computer Vision
 
-💡  I'm making various models !
+💡   I'm making various models !
 
