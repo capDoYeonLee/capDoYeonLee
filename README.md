@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm DoYeon. 
 
-🎓 Undergraduate student
+🎓 Undergraduate student in SCLAB
 
 👀 Interested in AI, Deep Learning, Computer Vision
 
