@@ -2,7 +2,7 @@
 
 🎓 Undergraduate student in SCLAB
 
-👀 Interested in AI, Deep Learning, Computer Vision
+👀 Interested in Object Detection, Human pose estimation(2D, 3D)
 
 💡   I'm trying to make various models !
 
