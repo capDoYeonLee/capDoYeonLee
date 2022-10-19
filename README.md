@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm tony. 
 
-🎓 Undergraduate student in SCLAB
+🎓 Sub Lab Leader in SCLAB
 
 👀 Interested in AI, Object Detection, Human pose estimation(2D, 3D)
 
