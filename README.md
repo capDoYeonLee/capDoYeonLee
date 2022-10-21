@@ -1,4 +1,4 @@
-### 👋 Hi, I'm tony. 
+### 👋 Hi, I'm Tony. 
 
 🎓 Sub Lab Leader in SCLAB
 
