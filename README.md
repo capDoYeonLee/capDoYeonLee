@@ -2,7 +2,7 @@
 
 🎓 Sub Lab Leader in SCLAB
 
-👀 Interested in AI, Object Detection, Human pose estimation(2D, 3D)
+👀 Interested in AI, Lightweighting, Object Detection, Human pose estimation(2D, 3D)
 
 💡   I'm trying to make various models !
 
