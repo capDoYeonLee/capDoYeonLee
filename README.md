@@ -8,7 +8,8 @@
 
 ### 🏅 History
 - CNU SCLAB 부랩장 (2022.01 ~ 2023.01)
-- ECONOVATION 회장 (2023.01 ~ 2024.01)
+- IT 개발 동아리 ECONOVATION 회장 (2023.01 ~ 2024.01)
+- KRAFTON JUNGLE (2025.03 ~ 2025.08)
 
 
 ### 🏅 Certificates
