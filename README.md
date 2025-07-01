@@ -2,7 +2,7 @@
 
 😀 전남대학교 IT 개발 동아리 에코노베이션에서 개발자로 활동하며 동료들과 함께 배우며 성장하고 있습니다.
 
-🏛 Chunnam Univ. Department of Global Business / Department of Artificial Intelligence
+🏛 Chunnam Univ. Department of Artificial Intelligence
 
 ---
 
