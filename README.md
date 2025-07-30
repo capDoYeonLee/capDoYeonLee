@@ -10,3 +10,5 @@
 
 ### 🏅 Certificates
 - AWS Solutions Architect - Associate
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=capDoYeonLee)](https://github.com/anuraghazra/github-readme-stats)
