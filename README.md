@@ -10,4 +10,4 @@
 
 
 ### 🏅 Certificates
-- AWS Solutions Architect - Associate
+- AWS Certified Solutions Architect - Associate
