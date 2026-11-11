@@ -1,5 +1,5 @@
 
-🏛 Chunnam Univ. Department of Artificial Intelligence
+🏛 Department of Artificial Intelligence, Chonnam National Univ
 
 
 
